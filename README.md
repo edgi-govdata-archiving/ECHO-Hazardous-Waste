@@ -2,6 +2,11 @@
 
 # ECHO-Hazardous-Waste
 Jupyter notebooks for ECHO RCRA analysis.
+|Contact Name|	Geography|	Legislation|	Report Type	|Repo	Link|
+|----------|----------|----------|----------|----------|
+|Steve	|	congressional district	|RCRA	enforcements|	ECHO-Hazardous-Waste	|https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-enforcements.ipynb |
+|Steve	|	congressional district|	RCRA	inspections|	ECHO-Hazardous-Waste|	https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-inspections.ipynb|
+|Steve	|	congressional district|	RCRA	violations|	ECHO-Hazardous-Waste|	https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-violation.ipynb|
 
 ---
 
