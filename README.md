@@ -3,7 +3,14 @@
 # ECHO-Hazardous-Waste
 Jupyter notebooks for ECHO RCRA analysis.
 
+[Repo website](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-inspections.ipynb)  
+
 ---
+
+## Notebook validation 
+
+### Link to Notebook 
+[Here](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Hazardous-Waste/blob/master/rcra-inspections.ipynb)
 
 ## License & Copyright
 
