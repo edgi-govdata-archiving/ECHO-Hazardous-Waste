@@ -1,7 +1,7 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
 # ECHO-Hazardous-Waste
-This **archived** project is centred around a Jupyter Notebook that interfaces with EPA's ECHO enforcement and compliance history database.
+This **archived** project is centred around a Jupyter Notebook that interfaces with EPA's ECHO (Enforcement and Compliance History) database.
 
 # Default branch - 'main'
 The 'master' branch is no longer the repo's primary branch in line with EDGI's policy decided here: https://github.com/edgi-govdata-archiving/overview/issues/241
